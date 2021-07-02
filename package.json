@@ -1,0 +1,22 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "Uses a stat package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoycesCodes/node-stats.git"
+  },
+  "author": "Joyce Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoycesCodes/node-stats/issues"
+  },
+  "homepage": "https://github.com/JoycesCodes/node-stats#readme",
+  "dependencies": {
+    "simple-statistics": "^7.7.0"
+  }
+}
